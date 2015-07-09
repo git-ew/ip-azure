@@ -15,6 +15,6 @@ echo $hostname;
 IP Address: <?php echo $_SERVER["REMOTE_ADDR"]; ?>
 <br />
 <br />
-Use <a href="">this</a> for IP only.
+Use <a href="http://ip-atlg.azurewebsites.net/iponly.php">this</a> for IP only.
 </body>
 </html>
